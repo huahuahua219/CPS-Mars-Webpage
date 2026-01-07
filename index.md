@@ -36,7 +36,7 @@ of manually labeled images to generate tens of thousands of high-quality labels,
 3. Performance of our framework with optimized modules and strategies reaches 95.73% accuracy on labeling S$^5$Mars segmentation dataset with only nearly 3% of manually labeled images.
 
 
-## frmework
+## framework
 We combined the idea of semi-supervision with active learning and designed a semi-supervised active learning framework. Train a semi-supervised model driven by an extremely small amount of data. Based on the performance of unlabeled data on the semi-supervised model, we use the active learning query method we designed to query the data with the greatest labeling value for manual labeling. Finally, the labeled data is integrated with the labeled data and then input into the semi-supervised learning model. Repeat this process until the user's needs are met
 
 ![Turing Machine](/static/image/SSL2.png)
