@@ -25,7 +25,7 @@ Accurate, large-scale Martian segmentation datasets are a cornerstone of autonom
 ---
 
 
-## Purpose
+## Motivation
 We propose an efficient semi-automatic framework for the Martian segmentation labeling task,aim to leverage a very small amount
 of manually labeled images to generate tens of thousands of high-quality labels, supporting future Mars exploration and scientific research
 
