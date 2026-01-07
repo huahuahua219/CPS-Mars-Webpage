@@ -46,7 +46,8 @@ Our SSL architecture is based on a dual-branch structure. For the special Mars s
 
 ![Turing Machine](/static/image/CPSnew.png)
 *Figure 2: Semi-supervised learning architecture for Mars scene segmentation.
-## Table: Segmentation performance of SSL architectures and active query methods on S$^5$Mars dataset (Using 169 Labeled Images out of 5400 Total)
+## Performance Evaluation
+Table: Segmentation performance of SSL architectures and active query methods on S$^5$Mars dataset (Using 169 Labeled Images out of 5400 Total)
 
 | SSL architecture | Active query strategy | Query frequencies | mIoU  |
 |------------------|-----------------------|-------------------|-------|
